@@ -1,2 +1,7 @@
 .venv/
 .env
+
+# artefato gerado pelo notebook (estado do bandit)
+bandit_estado.json
+
+contexto.md
